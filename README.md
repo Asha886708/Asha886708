@@ -1,16 +1,42 @@
-## Hi there 👋
+💫 Dev Debug:
 
-<!--
-**Asha886708/Asha886708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// Asha A: Mobile App Developer(Flutter) 🧑‍💻🚀
 
-Here are some ideas to get you started:
+class AshaA {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+final String techStack = "Flutter, Dart, Kotlin — my toolkit for creating impactful apps.";
+final String philosophy = "Code. Refine. Redefine. Always pushing boundaries.";
+
+AshaA() {
+print("🌟 Crafting seamless user experiences with a dash of Material Design.");
+print("⚡️ Mastering state management with Provider and Bloc.");
+print("🔗 Connecting the dots with RESTful APIs.");
+print("🔥 Sprinkling backend magic with Firebase.");
+}
+
+void contact() {
+print("📫 Reach me: ashaanand.a07@gmail.com");
+}
+
+void viewProjects() {
+print("🗂️ Explore my work: https://github.com/Asha886708");
+}
+
+void viewResume() {
+print("📄 Know my journey: https://github.com/Asha886708/Priyanshu-Bej-Resume.git");
+}
+}
+
+void main() {
+AshaA dev = AshaA();
+dev.viewProjects();
+dev.viewResume();
+dev.contact();
+}
+
+// 🚀 Got an app idea? Let's bring it to life!
+🌐 Socials:
+
+
+💻 Tech Stack:
+Flutter Dart Kotlin Firebase GithubPages Google Cloud NodeJS MongoDB SQLite Firebase Figma Canva Postman Java Adobe GitHub Git GitHub Actions
