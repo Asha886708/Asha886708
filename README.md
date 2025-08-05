@@ -23,7 +23,7 @@ print("🗂️ Explore my work: https://github.com/Asha886708");
 }
 
 void viewResume() {
-print("📄 Know my journey: https://github.com/Asha886708/Priyanshu-Bej-Resume.git");
+print("📄 Know my journey: https://github.com/Asha886708/Asha_Flutter_Dev_Resume.git");
 }
 }
 
